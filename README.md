@@ -19,4 +19,8 @@
  
 * Comando git branch "nome_da_nova_branch" - Cria uma nova branch.
 
-* Comando git checkout "nome_da_branch_" - Aponta para qual branch vc quer trabalhar.
+* Comando git checkout "nome_da_branch" - Aponta para qual branch vc quer trabalhar.
+
+* Comando git merge "nome_da_branch" - Mescla as alterações feitas entre os branchs.
+
+        Para realizar o merge, é necessário estar no branch que deverá receber as alterações. O merge pode automático ou manual. O merge automático será feito em arquivos textos que não sofreram alterações nas mesmas linhas, já o merge manual será feito em arquivos textos que sofreram alterações nas mesmas linhas.
