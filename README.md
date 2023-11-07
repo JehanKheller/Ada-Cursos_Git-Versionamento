@@ -12,7 +12,7 @@
 
 * Comando git pull - Recupera e baixa o conteúdo de um repositório remoto e atualiza o repositório local assim que ele for baixado.
 
-* Comando git fetch - Busca as alterações realizadas antes de aplicá-las ao branch atual.
+* Comando git fetch - Busca as alterações realizadas mas não as aplica ao branch atual.
 
 ### Branch
 * Comando git branch - Lista todas as branchs.
