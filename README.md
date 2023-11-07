@@ -15,7 +15,7 @@
 * Comando git fetch - Busca as alterações realizadas antes de aplicá-las ao branch atual.
 
 ### Branch
-* Comando git branch - lista todas as branchs.
+* Comando git branch - Lista todas as branchs.
  
 * Comando git branch "nome_da_nova_branch" - Cria uma nova branch.
 
